@@ -1,4 +1,4 @@
-blog
-====
+theclaymethod.github.io
+=======================
 
-Ruhoh Blog
+theClayMethodBlog
