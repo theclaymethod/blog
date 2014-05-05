@@ -1,4 +1,4 @@
-"theme-bootstrap-2" :
+"theme-bootstrap" :
   "use" : "theme"
 widgets :
   google_prettify :
