@@ -1,5 +1,5 @@
-"theme-bootstrap" :
-  "use" : "theme"
+#"theme-bootstrap" :
+#  "use" : "theme"
 widgets :
   google_prettify :
     use : default
